@@ -76,9 +76,13 @@ export default {
   'lab.loading.modal.lesson.initialization.pending.message': 'Waiting for lesson to finish initializing...',
   'lab.loading.modal.lesson.configuration.pending.message': 'Configuring endpoints for this lesson...',
   'lab.loading.modal.lesson.endpoints.pending.message': 'Waiting for lesson endpoints to become reachable...',
+  'lab.loading.modal.catalog.return.button': 'Return to Catalog',
+  'lab.stage.alias': 'Part',
   'lab.stage.selector.previous.button.label': '< Previous>',
   'lab.stage.selector.next.button.label': 'Next >',
   'lab.stage.selector.tooltip.label': ({ i }) => `Part ${i}`,
+  'lab.author.plural.label': 'Authors',
+  'lab.author.singular.label': 'Author',
   'ptr.banner.realm.label': 'Antidote Test Realm.',
   'promoted.lessons.title': 'Promoted Workflow Lessons:'
 }
