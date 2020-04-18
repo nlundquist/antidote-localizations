@@ -2,6 +2,9 @@
 
 ## In development
 
+
+## v0.6.0 - April 18, 2020
+
 - Rename slug field to shortDesc for advisor text [#2](https://github.com/nre-learning/antidote-localizations/pull/2)
 
 ## v0.5.1 - February 17, 2020
