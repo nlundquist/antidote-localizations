@@ -79,7 +79,7 @@ export default {
   'lab.loading.modal.lesson.endpoints.pending.message': 'Waiting for lesson endpoints to become reachable...',
   'lab.loading.modal.catalog.return.button': 'Return to Catalog',
   'lab.stage.alias': 'Part',
-  'lab.stage.selector.previous.button.label': '< Previous>',
+  'lab.stage.selector.previous.button.label': '< Previous',
   'lab.stage.selector.next.button.label': 'Next >',
   'lab.stage.selector.tooltip.label': ({ i }) => `Part ${i}`,
   'lab.author.plural.label': 'Authors',
