@@ -78,6 +78,7 @@ export default {
   'lab.loading.modal.lesson.configuration.pending.message': 'Configuring endpoints for this lesson...',
   'lab.loading.modal.lesson.endpoints.pending.message': 'Waiting for lesson endpoints to become reachable...',
   'lab.loading.modal.catalog.return.button': 'Return to Catalog',
+  'lab.loading.modal.catalog.problemreport.button': 'Report a Problem',
   'lab.stage.alias': 'Part',
   'lab.stage.selector.previous.button.label': '< Previous',
   'lab.stage.selector.next.button.label': 'Next >',
